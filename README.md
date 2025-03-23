@@ -21,7 +21,7 @@ My little creation uses OpenCV magic to turn your image into a playful cartoon
 ![원래 이미지](/images/image.jpg)
 
 - 만화 이미지
-- 
+  
 ![표현이 어려운 이미지](/images/Cap%202025-03-23%2015-51-30-219.jpg)
 
 ### 만화 효과가 잘 표현되는 이미지
