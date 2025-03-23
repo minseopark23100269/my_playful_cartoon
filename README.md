@@ -8,10 +8,12 @@ My little creation uses OpenCV magic to turn your image into a playful cartoon
 
 ### 만화 효과가 잘 표현된 이미지
 ![원래 이미지](/images/toy.jpg)
+
 ![잘 표현된 이미지](/images/Cap 2025-03-23 15-53-46-613.jpg)
 
 ### 만화 효과가 잘 표현되지 않은 이미지
 ![원래 이미지](/images/image.jpg)
+
 ![표현이 어려운 이미지](/images/Cap 2025-03-23 15-51-30-219.jpg)
 
 ### 만화 효과가 잘 표현되는 이미지
